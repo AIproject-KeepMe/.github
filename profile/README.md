@@ -1,4 +1,0 @@
-
-```
-AI Project: Keep Me 
-```
